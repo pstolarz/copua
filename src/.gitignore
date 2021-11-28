@@ -1,0 +1,4 @@
+*.a
+*.o
+copua.so
+copua_init.lua.h
