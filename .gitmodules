@@ -1,0 +1,6 @@
+[submodule "external/libcoap"]
+	path = external/libcoap
+	url = https://github.com/obgm/libcoap
+[submodule "external/lua"]
+	path = external/lua
+	url = https://github.com/lua/lua
